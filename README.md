@@ -34,3 +34,13 @@ Drąsiai teikite atnaujinimus, pataisymus. Naudokitės versijavimu, jei jūsų v
 Šiuo metu neišversta:
 Administravimo panelė
 Mokėjimų mechanizmai (visi)
+
+================= Install ==================
+Upload the content. Fill in the following information:
+
+Language name: Lietuvių
+Code: lt
+Encoding: lt_LT.UTF-8,lt_LT,lt,lithuania
+Image: lt.png
+Directory: lithuanian
+File name: lithuanian
