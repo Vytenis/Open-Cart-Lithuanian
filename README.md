@@ -4,7 +4,7 @@ Open-Cart-Lithuanian
 Lithuanian translations for OpenCart. Based on public translations made by:
 Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
 Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
+Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [removed email]
 Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
 Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
@@ -22,7 +22,7 @@ Payment gateways (all of the)
 Lietuvių kalbos vertimas OpenCart el. komercijos platformai. Remtasi nemokamais vertimais:
 Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
 Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
+Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [pašalintas el. paštas]
 Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
 Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
