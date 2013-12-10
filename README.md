@@ -6,7 +6,7 @@ Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
 Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
 Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [removed email]
 Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
+Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
 
 Updated for 1.5.5.x by Vytenis Pakėnas, vytenis@mood.lt http://stupid.popo.lt
@@ -24,7 +24,7 @@ Opencart v1.3.2 Lithuanian by Saulius Varskevicius, varske@takas.lt
 Opencart v1.4.0 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
 Opencart v1.4.8b Lithuanian by Andrejus Zlotnikovas, [pašalintas el. paštas]
 Opencart v1.4.9.1 Lithuanian by Rimvydas Zubkus, rimasz@kava.lt
-Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikovas, andrejuszl@gmail.com
+Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
 
 Atnaujino iki 1.5.5.x versijos Vytenis Pakėnas, vytenis@mood.lt,http://stupid.popo.lt
