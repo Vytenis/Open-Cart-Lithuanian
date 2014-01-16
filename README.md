@@ -10,6 +10,7 @@ Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
 
 Updated for 1.5.5.x by Vytenis Pakėnas, vytenis@mood.lt http://stupid.popo.lt
+Admin updated (might be errors as not used in live) to 1.5.6.x
 
 Feel free to commit changes, update the translations. Also please use branches if you update translations for any other OC version.
 
@@ -28,6 +29,7 @@ Opencart v1.4.9.3 Lithuanian by Andrejus Zlotnikova
 Opencart v1.5.0 Lithuanian by Marius Radvilavicius radvis@gmail.com
 
 Atnaujino iki 1.5.5.x versijos Vytenis Pakėnas, vytenis@mood.lt,http://stupid.popo.lt
+Atnaujintas admin iki 1.5.6.x. Galimos klaidelės (nes nenaudojamas live)
 
 Drąsiai teikite atnaujinimus, pataisymus. Naudokitės versijavimu, jei jūsų vertimai pritaikytikitai versijai.
 
